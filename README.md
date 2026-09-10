@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-  <meta name="theme-color" content="#07090f">
-
-  <!-- =============================================
-       SEO — MODIFIE CES INFORMATIONS
-       ============================================= -->
-  <title>Academic Planner & Pixel Adventure — Applications Android Gratuites</title>
-  <meta name="description" content="Découvrez Academic Planner, l'assistant scolaire intelligent, et Pixel Adventure, le jeu de plateforme pixel art en 30 niveaux. Deux applications Android 100% gratuites.">
-  <meta name="keywords" content="Academic Planner, Pixel Adventure, application Android, jeu Android, planificateur scolaire, jeu pixel art, Android gratuit">
 
   <!-- =============================================
        REMPLACE Zanvoxel Studio PAR TON NOM/PSEUDO
